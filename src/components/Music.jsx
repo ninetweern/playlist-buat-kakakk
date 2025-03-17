@@ -112,7 +112,7 @@ function Music() {
           className="px-4 py-2 flex justify-center items-center bg-white/20 gap-2 hover:bg-white/30 backdrop-blur-sm text-white text-sm border border-white/50 rounded-lg"
           onClick={() => window.location.href="https://open.spotify.com/playlist/1nuy58BhOPNAsR3lJYQQgV?si=Sr-UARmISMSF_ej2PJvK-g&pi=KnW0bo9tTDGXB"}
         >
-          <ArrowLeft /> Previous page
+          AYOKK KE SPORTIFY
         </button>
       </div>
     </div>
